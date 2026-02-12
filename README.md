@@ -58,12 +58,6 @@ To transform raw retail sales data into meaningful insights that help businesses
 
 ---
 
-## 📊 Dataset
-
-Sample Super Store dataset used for educational and portfolio purposes.
-
----
-
 ⭐ If you found this project useful, feel free to star the repository or connect with me.
 
 🚀 Always learning and building — open to feedback and collaboration.
