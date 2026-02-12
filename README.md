@@ -6,8 +6,8 @@ This project presents an interactive **Super Store Sales Analysis Dashboard** bu
 
 ## 📸 Dashboard Preview
 
-![picture](dashboard1)
-![picture](dashboard2)
+![Dashboard 1](dashboard1.png)
+![Dashboard 2](dashboard2.png)
 
 ---
 
