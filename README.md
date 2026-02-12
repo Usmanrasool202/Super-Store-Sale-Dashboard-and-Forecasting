@@ -1,14 +1,13 @@
 # 📊 Super Store Sales Analysis Dashboard – Power BI
 
-## 🟢 GitHub README / Repository Description
-
 This project presents an interactive **Super Store Sales Analysis Dashboard** built in **Power BI** to explore sales performance, profitability, customer segments, and regional trends. The dashboard converts raw transactional data into actionable business insights for decision‑making.
 
 ---
 
 ## 📸 Dashboard Preview
 
-*(Add dashboard screenshot here)*
+![picture](dashboard1)
+![picture](dashboard2)
 
 ---
 
